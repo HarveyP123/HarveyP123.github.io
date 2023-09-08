@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Ph.D. candidate in the Department of [Computer Science and Engineering](https://www.cse.uconn.edu/) at [University of Connecticut](https://uconn.edu/) since 2021 spring. I obtained my B.S. degree in electrical engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2018 and and M.S. degree in electrical engineering from [University of Akransas](https://www.uark.edu/).
+I am an Ph.D. candidate in the Department of [Computer Science and Engineering](https://www.cse.uconn.edu/) at [University of Connecticut](https://uconn.edu/) since 2021 spring. I obtained my B.S. degree in electrical engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2018 and and M.S. degree in electrical engineering from [University of Akransas](https://www.uark.edu/) in 2020.
 
 I am generally interested in deep learning, efficient machine learning system, secure AI/ML systems, and power electronics system. My current research focuses are listed as follows:
 
