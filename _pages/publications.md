@@ -8,7 +8,7 @@ author_profile: true
 ### **Conference**
 **2023**
 - **C12**. [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825)\
-Xi Xie*, **Hongwu Peng***, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding\
+Xi Xie\*, **Hongwu Peng**\*, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding\
 *2023 IEEE/ACM International Conference On Computer Aided Design* (**ICCAD**), 2023
 
 
