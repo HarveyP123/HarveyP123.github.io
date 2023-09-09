@@ -2,6 +2,25 @@
 Location: \
 ```_data/navigation.yml```
 
+#### Add top navigation link 
+Location: \
+```_data/navigation.yml```
+
+Add: 
+```
+  - title: "Codes"
+    url: /codes/
+```
+Then in folder ```_pages```, add ```codes.md```, and add following command on the top:
+
+```
+---
+layout: archive
+title: "Codes"
+permalink: /codes/
+author_profile: true
+---
+```
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
