@@ -23,7 +23,7 @@ author_profile: true
 
 - C10. **\[22'ICCD\]** **Hongwu Peng**, Deniz Gurevin, Shaoyi Huang, Tong Geng, Weiwen Jiang, Orner Khan, Caiwen Ding. [Towards sparsification of graph neural networks](https://arxiv.org/pdf/2208.03646). *2022 IEEE 40th International Conference on Computer Design.*
 
-- C9. **\[22'DAC\]** **Hongwu Peng**, Shaoyi Huang, Shiyang Chen, Bingbing Li, Tong Geng, ..., Caiwen Ding. [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/pdf/2208.03646). *Proceedings of the 59th ACM/IEEE Design Automation Conference.* Selected as **publicity paper!**.
+- C9. **\[22'DAC\]** **Hongwu Peng**, Shaoyi Huang, Shiyang Chen, Bingbing Li, Tong Geng, ..., Caiwen Ding. [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/pdf/2208.03646). *Proceedings of the 59th ACM/IEEE Design Automation Conference.* Selected as **publicity paper**!.
 
 - C8. **\[21'ISQED\]** Shaoyi Huang, Ning Liu, Yueying Liang, **Hongwu Peng**, Hongjia Li, Dongkuan Xu, Mimi Xie, Caiwen Ding. [An automatic and efficient bert pruning for edge ai systems](https://arxiv.org/pdf/2206.10461). *2022 23rd International Symposium on Quality Electronic Design.*
 
@@ -90,7 +90,7 @@ author_profile: true
 
 - C4. **\[20'EMCSI\]** **Hongwu Peng**, Balaji Narayanasamy, Asif Imran Emon, Zhao Yuan, Rongxuan Zhang, Fang Luo. [Selective digital active emi filtering using resonant controller](https://drive.google.com/file/u/0/d/1fUUmpT2s4h-IxlEm0G8lhMbgss8xvapm/view). *2020 IEEE International Symposium on Electromagnetic Compatibility & Signal/Power Integrity.*
 
-- C3. **\[20'EMCSI\]** Zhao Yuan, Amol Asif Imran Emon, Balaji Narayansamy, **Hongwu Peng**, Zhao Yuan, Fang Luo. [Investigation of Power Converter's Near Field EMI Containment Using Passive Filters](https://ieeexplore.ieee.org/abstract/document/9191648). *2020 IEEE International Symposium on Electromagnetic Compatibility & Signal/Power Integrity.* Selected as **best student paper award!**.
+- C3. **\[20'EMCSI\]** Zhao Yuan, Amol Asif Imran Emon, Balaji Narayansamy, **Hongwu Peng**, Zhao Yuan, Fang Luo. [Investigation of Power Converter's Near Field EMI Containment Using Passive Filters](https://ieeexplore.ieee.org/abstract/document/9191648). *2020 IEEE International Symposium on Electromagnetic Compatibility & Signal/Power Integrity.* Selected as **best student paper award**!.
 
 - C2. **\[19'ECCE\]** Zhao Yuan, Amol Deshpande, Balaji Narayanasamy, **Hongwu Peng**, ... Fang Luo, David Huitink. [Design and evaluation of a 150 kva sic mosfet based three level tnpc phase-leg pebb for aircraft motor driving application](https://ieeexplore.ieee.org/abstract/document/8913071). *2019 IEEE Energy Conversion Congress and Exposition.*
 
