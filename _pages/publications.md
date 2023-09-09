@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ### **CS Conference**
-**2023**
 
 - C17. **\[23'MICRO\]** Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#cs-conference). *2023 IEEE/ACM International Symposium on Microarchitecture.*
 
