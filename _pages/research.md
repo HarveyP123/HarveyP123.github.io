@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Efficient machine learning systems <a name="mlsys"></a>
-Software-hardware co-design the of Transformer-based model on FPGA platform and GNN training acceleration on GPU platform. Transformer-based model mapping on FPGA features sequence-length adaptive hardware design and re-designed linear complexity self-attention. GNN mapping on GPU features degree sorting, block-level partition and combined warp on GPU CUDA kernel, which maximizes GPU memory bandwidth and computational parallelism. 
+My current research focuses on efficient algorithm design and mapping on existing computing platforms such as FPGA and GPU. Transformer-based model mapping on FPGA features sequence-length adaptive hardware design and re-designed linear complexity self-attention. GNN mapping on GPU features degree sorting, block-level partition and combined warp on GPU CUDA kernel, which maximizes GPU memory bandwidth and computational parallelism on SpMM operator. 
 
 ### **Featured publications**
 - [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825)  (**ICCAD**), 2023. [Code](https://github.com/xiexi1990/iccad-accel-gnn).
