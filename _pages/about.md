@@ -14,7 +14,7 @@ I am an Ph.D. candidate in the Department of [Computer Science and Engineering](
 I am generally interested in deep learning, efficient machine learning system, secure AI/ML systems, and power electronics system. My current research focuses are listed as follows:
 
  - [Efficient machine learning system](/research/#mlsys)
- - [Secure computing and privacy perserving machine learning](/research/#ai)
+ - [Secure and Trustworthy AI/ML systems](/research/#ai)
 
 Recent News
 ======
