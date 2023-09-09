@@ -23,6 +23,19 @@ author_profile: true
 ---
 ```
 
+#### Add new icon and link to the author profile sidebar
+
+Add following code into line 118 of ```_config.yml```
+```
+  openreview       : "https://openreview.net/profile?id=~Hongwu_Peng1"
+```
+
+Then add following code into ```_includes/author-profile.html``` last few lines.
+```
+      {% if author.openreview %}
+      <li><a href="{{ author.openreview }}"><i class="ai ai-pubmed-square ai-fw"></i> Openreview</a></li>
+{% endif %}
+```
 
 ---
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
