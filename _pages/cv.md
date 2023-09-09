@@ -13,19 +13,19 @@ Education
 * M.S. in Electrical Engineering, University of Akransas, 2020. (Ph.D. dropout)
 * Ph.D in Computer Science and Engineering, University of Connecticut, 2024 (expected). 
 
-Work experience
+Research experience
 ======
 * Jan. 2021 – Present: Research Assistant @ UConn CSE
   * Research: Deep learning, machine learning system, privacy perserving machine learning. 
-  * Supervisor: [Caiwen Ding](https://caiwending.cse.uconn.edu/)
+  * Supervisor: Prof. [Caiwen Ding](https://caiwending.cse.uconn.edu/)
 
 * May. 2022 – Dec.2022: Ph.D. Research Intern @ PNNL
   * Research: High performance computing platform (SambaNova,  GraphCore and GPU platform) benchmark.
-  * Supervisor: [Ang Li](https://www.pnnl.gov/people/ang-li)
+  * Supervisor: Dr. [Ang Li](https://www.pnnl.gov/people/ang-li)
 
 * Aug. 2018 – Aug. 2020: Research Assistant @ UArk EE
   * Research: Power electronics system. 
-  * Supervisor: [Fang Luo](https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang)
+  * Supervisor: Prof. [Fang Luo](https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang)
 
 Skills
 ======
