@@ -8,7 +8,7 @@ author_profile: true
 ### **CS Conference**
 **2023**
 
-- 16. **\[23'MICRO\]** Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#cs-conference). *2023 IEEE/ACM International Symposium on Microarchitecture.*
+- \16. **\[23'MICRO\]** Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#cs-conference). *2023 IEEE/ACM International Symposium on Microarchitecture.*
 
 - 15. **\[23'ICCAD\]** Xi Xie\*, **Hongwu Peng**\*, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding. [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825). *2023 IEEE/ACM International Conference On Computer Aided Design.*
 
