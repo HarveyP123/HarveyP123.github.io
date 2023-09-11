@@ -18,7 +18,7 @@ I am generally interested in deep learning, efficient machine learning system, s
 
 Recent News
 ======
-
+*09/2023 We release [Medusa](sites.google.com/view/medusa-llm), a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head. \[[Blog](sites.google.com/view/medusa-llm)\], \[[code](github.com/FasterDecoding/Medusa)\]*.
 
 *07/2023 Our paper [AQ2PNN](#) on adaptive quantization in private inference has been accepted by **MICRO 23**. To appear.* 
 

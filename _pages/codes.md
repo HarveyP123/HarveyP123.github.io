@@ -5,9 +5,11 @@ permalink: /codes/
 author_profile: true
 ---
 
+- **[Medusa](github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
+*Key technique*: , LLM, speculative decoding.
 
 - **[AutoReP](https://github.com/harveyp123/AutoReP).** Implementation of AutoReP ReLU replacement algorithm on CIFAR-10, CIFAR-100, TinyImageNet and ImageNet.\
-*Key technique*: L0 replacement algorithm, polynomial activation function, private inference
+*Key technique*: L0 replacement algorithm, polynomial activation function, private inference.
 
 - **[Accel-GCN](https://github.com/xiexi1990/iccad-accel-gnn).** Implementation of SpMM for GCNs on GPU platform. \
 *Key technique*: degree sorting, block-level partition, combined warp. 
