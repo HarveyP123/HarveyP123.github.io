@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2018. GPA: 3.92
+* B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2018. GPA: 3.92.
 * M.S. in Electrical Engineering, University of Akransas, 2020. (Ph.D. dropout). GPA: 3.9. 
 * Ph.D in Computer Science and Engineering, University of Connecticut, 2024 (expected). GPA: 3.94. 
 
