@@ -9,11 +9,11 @@ author_profile: true
 
 - C17. **\[23'MICRO\]** Yukui Luo, Nuo Xu, **Hongwu Peng**, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#cs-conference). *2023 IEEE/ACM International Symposium on Microarchitecture.*
 
-- C16. **\[23'ICCAD\]** Xi Xie\*, **Hongwu Peng**\*, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding. [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825). *2023 IEEE/ACM International Conference On Computer Aided Design.* \[[Code]((https://github.com/xiexi1990/iccad-accel-gnn)).\]
+- C16. **\[23'ICCAD\]** Xi Xie\*, **Hongwu Peng**\*, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding. [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825). *2023 IEEE/ACM International Conference On Computer Aided Design.* \[[Code]((https://github.com/xiexi1990/iccad-accel-gnn))\].
 
-- C15. **\[23'ICCV\]** **Hongwu Peng**, Shaoyi Huang, Tong Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://arxiv.org/pdf/2308.10134). *2023 Proceedings of the IEEE/CVF International Conference on Computer Vision.* \[[Code]((https://github.com/harveyp123/AutoReP)).\]
+- C15. **\[23'ICCV\]** **Hongwu Peng**, Shaoyi Huang, Tong Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://arxiv.org/pdf/2308.10134). *2023 Proceedings of the IEEE/CVF International Conference on Computer Vision.* \[[Code]((https://github.com/harveyp123/AutoReP))\].
 
-- C14. **\[23'DAC\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513). *Proceedings of the 60th ACM/IEEE Design Automation Conference.* \[[Code]((https://github.com/HarveyP123/PASNet-DAC2023)).\]
+- C14. **\[23'DAC\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513). *Proceedings of the 60th ACM/IEEE Design Automation Conference.* \[[Code]((https://github.com/HarveyP123/PASNet-DAC2023))\].
 
 
 - C13. **\[23'DAC\]** Shaoyi Huang, Bowen Lei, Dongkuan Xu, **Hongwu Peng**, Yue Sun, Mimi Xie, Caiwen Ding. [Dynamic Sparse Training via Balancing the Exploration-Exploitation Trade-off](https://arxiv.org/pdf/2211.16667). *Proceedings of the 60th ACM/IEEE Design Automation Conference.*
@@ -22,7 +22,7 @@ author_profile: true
 
 - C11. **\[22'ICCD\]** Yixuan Luo, Payman Behnam, Kiran Thorat, Zhuo Liu, **Hongwu Peng**, ..., Caiwen Ding, Tong Geng. [Codg-reram: An algorithm-hardware co-design to accelerate semi-structured gnns on reram](https://khan.engr.uconn.edu/pubs/iccd22-reram-gnn.pdf). *2022 IEEE 40th International Conference on Computer Design.*
 
-- C10. **\[22'ICCD\]** **Hongwu Peng**, Deniz Gurevin, Shaoyi Huang, Tong Geng, Weiwen Jiang, Orner Khan, Caiwen Ding. [Towards sparsification of graph neural networks](https://arxiv.org/pdf/2208.03646). *2022 IEEE 40th International Conference on Computer Design.* \[[Code]((https://github.com/harveyp123/ICCD_SpTrn_SLR)).\]
+- C10. **\[22'ICCD\]** **Hongwu Peng**, Deniz Gurevin, Shaoyi Huang, Tong Geng, Weiwen Jiang, Orner Khan, Caiwen Ding. [Towards sparsification of graph neural networks](https://arxiv.org/pdf/2208.03646). *2022 IEEE 40th International Conference on Computer Design.* \[[Code]((https://github.com/harveyp123/ICCD_SpTrn_SLR))\].
 
 - C9. **\[22'DAC\]** **Hongwu Peng**, Shaoyi Huang, Shiyang Chen, Bingbing Li, Tong Geng, ..., Caiwen Ding. [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/pdf/2208.03646). *Proceedings of the 59th ACM/IEEE Design Automation Conference.* Selected as **publicity paper**!.
 
