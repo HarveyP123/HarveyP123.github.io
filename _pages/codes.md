@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-- **[Medusa](github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
+- **[Medusa](https://github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
 *Key technique*: , LLM, speculative decoding.
 
 - **[AutoReP](https://github.com/harveyp123/AutoReP).** Implementation of AutoReP ReLU replacement algorithm on CIFAR-10, CIFAR-100, TinyImageNet and ImageNet.\
