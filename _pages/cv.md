@@ -9,22 +9,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2018.
-* M.S. in Electrical Engineering, University of Akransas, 2020. (Ph.D. dropout)
-* Ph.D in Computer Science and Engineering, University of Connecticut, 2024 (expected). 
+* B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2018. GPA: 3.92
+* M.S. in Electrical Engineering, University of Akransas, 2020. (Ph.D. dropout). GPA: 3.9. 
+* Ph.D in Computer Science and Engineering, University of Connecticut, 2024 (expected). GPA: 3.94. 
 
 Research experience
 ======
 * Jan. 2021 – Present: Research Assistant @ UConn CSE
-  * Research: Deep learning, machine learning system, privacy perserving machine learning. 
+  * Research area: Deep learning, machine learning system, privacy perserving machine learning. 
   * Supervisor: Prof. [Caiwen Ding](https://caiwending.cse.uconn.edu/)
 
 * May. 2022 – Dec.2022: Ph.D. Research Intern @ PNNL
-  * Research: High performance computing platform (SambaNova,  GraphCore and GPU platform) benchmark.
+  * Research area: High performance computing platform (SambaNova,  GraphCore and GPU platform) benchmark.
   * Supervisor: Dr. [Ang Li](https://www.pnnl.gov/people/ang-li)
 
 * Aug. 2018 – Aug. 2020: Research Assistant @ UArk EE
-  * Research: Power electronics system. 
+  * Research area: Power electronics system. 
   * Supervisor: Prof. [Fang Luo](https://www.stonybrook.edu/commcms/electrical/people/-core_faculty/luo_fang)
 
 Skills
@@ -50,9 +50,9 @@ Award
   * 09/2015. **Merit Student** of *HUST* for top 4% by *HUST*
   * 09/2015. **National Scholarship** for top 0.2% students by Ministry of Education of *P.R.C*
   
-Teaching
+Teaching Assistant
 ======
-  * UConn CSE 3666. Introduction to Computer Architecture - Spring 2022 to present.  
+  * UConn CSE 3666. Introduction to Computer Architecture - Spring 2022, fall 2022, spring 2023, fall 2023.  
   
 Service and leadership
 ======
