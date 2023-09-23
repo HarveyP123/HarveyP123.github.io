@@ -8,7 +8,7 @@ author_profile: true
 ### **CS Conference**
 
 
-- C18. **\[23'NEURIPS\]** **Hongwu Peng**, Ran Ran, Yukui Luo, ... Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#). *2023 Advances in Neural Information Processing Systems.*
+- C18. **\[23'NEURIPS\]** **Hongwu Peng**, Ran Ran, Yukui Luo, ... Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#). *2023 Advances in Neural Information Processing Systems.* \[[Code](https://github.com/harveyp123/LinGCN-Neurips23)\].
 
 - C17. **\[23'MICRO\]** Yukui Luo, Nuo Xu, **Hongwu Peng**, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#). *2023 IEEE/ACM International Symposium on Microarchitecture.*
 
