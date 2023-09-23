@@ -5,6 +5,9 @@ permalink: /codes/
 author_profile: true
 ---
 
+- **[LinGCN](https://github.com/harveyp123/LinGCN-Neurips23).** Implementation of "LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference."\
+*Key technique*: Privacy-Preserving Machine Learning, efficient private inference, machine learning as a service, homomorphic encryption, non-linear pruning, ST-GCN.
+
 - **[Medusa](https://github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
 *Key technique*: , LLM, speculative decoding.
 
