@@ -37,6 +37,7 @@ Skills
 
 Award
 ======
+  * 10/2023. **Synchrony Fellowships** by UConn School of Engineering
   * 08/2023. **GE Fellowship** by UConn School of Engineering
   * 05/2023. **Predoctoral fellowship** for research excellence
   * 08/2022. **GE Fellowship** by UConn School of Engineering
