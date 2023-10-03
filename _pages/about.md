@@ -19,6 +19,8 @@ I am generally interested in deep learning, efficient machine learning system, s
 Recent News
 ======
 
+*10/2023 I accepted the Synchrony Fellowships from UConn CSE. Thanks UConn CSE!*
+
 *09/2023 Our paper [LinGCN](http://arxiv.org/abs/2309.14331) on accelerating GCN private inference under Homomorphical Encryption Setting has been accepted by **NEURIPS 23**.* \[[Code](https://github.com/harveyp123/LinGCN-Neurips23)\].
 
 *09/2023 We release [Medusa](https://sites.google.com/view/medusa-llm), a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head. No draft model needed!* \[[Blog](https://sites.google.com/view/medusa-llm)\], \[[code](https://github.com/FasterDecoding/Medusa)\].
