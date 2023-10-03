@@ -32,7 +32,7 @@ Skills
 * Programming language:
   * Python; C/C++; Verilog
 * Framework/Software:
-  * Pytorch, TensorFlow, MPI/OpenMP, Vivado (HLS), CUDA C++, MATLAB, Cadence Virtuoso
+  * Pytorch, TensorFlow, CUDA C++, MPI/OpenMP, Vivado (HLS), MATLAB, Cadence Virtuoso
 
 
 Award
