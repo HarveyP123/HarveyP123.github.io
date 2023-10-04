@@ -38,7 +38,7 @@ Skills
 Award
 ======
   * 10/2023. **Synchrony Fellowships** by UConn School of Engineering for excellent cybersecurity research
-  * 08/2023. **GE Fellowship** by UConn School of Engineering for research excellence
+  * 07/2023. **GE Fellowship** by UConn School of Engineering for research excellence
   * 05/2023. **Predoctoral fellowship** for research excellence
   * 08/2022. **GE Fellowship** by UConn School of Engineering
   * 05/2022. **Taylor L. Booth predoctoral fellowship** for **top 1** scholarly achievements by UConn CSE. 
