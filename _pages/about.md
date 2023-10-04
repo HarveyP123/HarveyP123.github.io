@@ -38,11 +38,11 @@ Recent News
 
 *02/2023 Our paper [PASNet](https://arxiv.org/abs/2306.15513) on NAS for private inference acceleration under multi-party computation setting has been accepted by **DAC 23**.* \[[Code](https://github.com/HarveyP123/PASNet-DAC2023)\].
 
-*01/2023 Our paper on [GNN sparsification](https://arxiv.org/pdf/2208.03646) has been accepted by **ICCD 23**.* \[[Code](https://github.com/harveyp123/ICCD_SpTrn_SLR)\].
+*01/2023 Our paper on [GNN sparsification](https://arxiv.org/abs/2209.04766) has been accepted by **ICCD 23**.* \[[Code](https://github.com/harveyp123/ICCD_SpTrn_SLR)\].
 
 *05/2022 I accepted the **Taylor L. Booth predoctoral fellowship** for **top 1** scholarly achievements by UConn CSE. Thanks UConn CSE!*
 
-*02/2022 Our paper on [Transformer model acceleration](https://arxiv.org/pdf/2208.03646) has been accepted by **DAC 2022**.*
+*02/2022 Our paper on [Transformer model acceleration](https://arxiv.org/abs/2208.03646) has been accepted by **DAC 2022**.*
 
 
 

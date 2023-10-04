@@ -14,35 +14,35 @@ author_profile: true
 
 - C16. **\[23'ICCAD\]** Xi Xie\*, **Hongwu Peng**\*, Amit Hasan, ... Tong Geng, Omer Khan, Caiwen Ding. [Accel-GCN: High-Performance GPU Accelerator Design for Graph Convolution Networks](https://arxiv.org/abs/2308.11825). *2023 IEEE/ACM International Conference On Computer Aided Design.* \[[Code](https://github.com/xiexi1990/iccad-accel-gnn)\].
 
-- C15. **\[23'ICCV\]** **Hongwu Peng**, Shaoyi Huang, Tong Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://arxiv.org/pdf/2308.10134). *2023 Proceedings of the IEEE/CVF International Conference on Computer Vision.* \[[Code](https://github.com/harveyp123/AutoReP)\].
+- C15. **\[23'ICCV\]** **Hongwu Peng**, Shaoyi Huang, Tong Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://arxiv.org/abs/2308.10134). *2023 Proceedings of the IEEE/CVF International Conference on Computer Vision.* \[[Code](https://github.com/harveyp123/AutoReP)\].
 
-- C14. **\[23'DAC\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513). *Proceedings of the 60th ACM/IEEE Design Automation Conference.* \[[Code](https://github.com/HarveyP123/PASNet-DAC2023)\].
+- C14. **\[23'DAC\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/abs/2306.15513). *Proceedings of the 60th ACM/IEEE Design Automation Conference.* \[[Code](https://github.com/HarveyP123/PASNet-DAC2023)\].
 
 
-- C13. **\[23'DAC\]** Shaoyi Huang, Bowen Lei, Dongkuan Xu, **Hongwu Peng**, Yue Sun, Mimi Xie, Caiwen Ding. [Dynamic Sparse Training via Balancing the Exploration-Exploitation Trade-off](https://arxiv.org/pdf/2211.16667). *Proceedings of the 60th ACM/IEEE Design Automation Conference.*
+- C13. **\[23'DAC\]** Shaoyi Huang, Bowen Lei, Dongkuan Xu, **Hongwu Peng**, Yue Sun, Mimi Xie, Caiwen Ding. [Dynamic Sparse Training via Balancing the Exploration-Exploitation Trade-off](https://arxiv.org/abs/2211.16667). *Proceedings of the 60th ACM/IEEE Design Automation Conference.*
 
-- C12. **\[23'AAAI-workshop\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [RRNet: Towards ReLU-Reduced Neural Network for Two-party Computation Based Private Inference](https://arxiv.org/pdf/2302.02292). *AAAI 2023 Workshop on DL-Hardware Co-Design for AI Acceleration.*
+- C12. **\[23'AAAI-workshop\]** **Hongwu Peng**, Shanglin Zhou, Yukui Luo, ..., Wujie Wen, Xiaolin Xu, Caiwen Ding. [RRNet: Towards ReLU-Reduced Neural Network for Two-party Computation Based Private Inference](https://arxiv.org/abs/2302.02292). *AAAI 2023 Workshop on DL-Hardware Co-Design for AI Acceleration.*
 
 - C11. **\[22'ICCD\]** Yixuan Luo, Payman Behnam, Kiran Thorat, Zhuo Liu, **Hongwu Peng**, ..., Caiwen Ding, Tong Geng. [Codg-reram: An algorithm-hardware co-design to accelerate semi-structured gnns on reram](https://khan.engr.uconn.edu/pubs/iccd22-reram-gnn.pdf). *2022 IEEE 40th International Conference on Computer Design.*
 
-- C10. **\[22'ICCD\]** **Hongwu Peng**, Deniz Gurevin, Shaoyi Huang, Tong Geng, Weiwen Jiang, Orner Khan, Caiwen Ding. [Towards sparsification of graph neural networks](https://arxiv.org/pdf/2208.03646). *2022 IEEE 40th International Conference on Computer Design.* \[[Code](https://github.com/harveyp123/ICCD_SpTrn_SLR)\].
+- C10. **\[22'ICCD\]** **Hongwu Peng**, Deniz Gurevin, Shaoyi Huang, Tong Geng, Weiwen Jiang, Orner Khan, Caiwen Ding. [Towards sparsification of graph neural networks](https://arxiv.org/abs/2209.04766). *2022 IEEE 40th International Conference on Computer Design.* \[[Code](https://github.com/harveyp123/ICCD_SpTrn_SLR)\].
 
-- C9. **\[22'DAC\]** **Hongwu Peng**, Shaoyi Huang, Shiyang Chen, Bingbing Li, Tong Geng, ..., Caiwen Ding. [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/pdf/2208.03646). *Proceedings of the 59th ACM/IEEE Design Automation Conference.* Selected as **publicity paper**!.
+- C9. **\[22'DAC\]** **Hongwu Peng**, Shaoyi Huang, Shiyang Chen, Bingbing Li, Tong Geng, ..., Caiwen Ding. [A length adaptive algorithm-hardware co-design of transformer on fpga through sparse attention and dynamic pipelining](https://arxiv.org/abs/2208.03646). *Proceedings of the 59th ACM/IEEE Design Automation Conference.* Selected as **publicity paper**!.
 
-- C8. **\[21'ISQED\]** Shaoyi Huang, Ning Liu, Yueying Liang, **Hongwu Peng**, Hongjia Li, Dongkuan Xu, Mimi Xie, Caiwen Ding. [An automatic and efficient bert pruning for edge ai systems](https://arxiv.org/pdf/2206.10461). *2022 23rd International Symposium on Quality Electronic Design.*
+- C8. **\[21'ISQED\]** Shaoyi Huang, Ning Liu, Yueying Liang, **Hongwu Peng**, Hongjia Li, Dongkuan Xu, Mimi Xie, Caiwen Ding. [An automatic and efficient bert pruning for edge ai systems](https://arxiv.org/abs/2206.10461). *2022 23rd International Symposium on Quality Electronic Design.*
 
-- C7. **\[21'ICCAD\]** **Hongwu Peng**, Shiyang Chen, Zhepeng Wang, ..., Weiwen Jiang, Hang Liu, Caiwen Ding. [Optimizing fpga-based accelerator design for large-scale molecular similarity search](https://arxiv.org/pdf/2109.06355). *2021 IEEE/ACM International Conference On Computer Aided Design.*
+- C7. **\[21'ICCAD\]** **Hongwu Peng**, Shiyang Chen, Zhepeng Wang, ..., Weiwen Jiang, Hang Liu, Caiwen Ding. [Optimizing fpga-based accelerator design for large-scale molecular similarity search](https://arxiv.org/abs/2109.06355). *2021 IEEE/ACM International Conference On Computer Aided Design.*
 
 - C6. **\[21'ICCAD\]** Panjie Qi, Edwin Hsing-Mean Sha, Qingfeng Zhuge, **Hongwu Peng**, ..., Bingbing Li. [Accelerating framework of transformer by hardware design and model compression co-optimization](https://arxiv.org/pdf/2110.10030). *2021 IEEE/ACM International Conference On Computer Aided Design.*
 
-- C5. **\[21'ASAP\]** **Hongwu Peng**, Shanglin Zhou, Scott Weitze, ..., Hang Liu, Caiwen Ding. [Binary complex neural network acceleration on fpga](https://arxiv.org/pdf/2108.04811). *2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors.*
+- C5. **\[21'ASAP\]** **Hongwu Peng**, Shanglin Zhou, Scott Weitze, ..., Hang Liu, Caiwen Ding. [Binary complex neural network acceleration on fpga](https://arxiv.org/abs/2108.04811). *2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors.*
 
 - C4. **\[21'GLSVLSI\]** Shaoyi Huang, Shiyang Chen, **Hongwu Peng**, Daniel Manu, ..., Hang Liu, Caiwen Ding. [HMC-TRAN A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU](https://dl.acm.org/doi/abs/10.1145/3453688.3461740). *Proceedings of the 2021 on Great Lakes Symposium on VLSI.*
 
 
 - C3. **\[21'GLSVLSI\]** Panjie Qi, Yuhong Song, **Hongwu Peng**, Shaoyi Huang, Qingfeng Zhuge, Edwin Hsing-Mean Sha. [Accommodating transformer onto fpga: Coupling the balanced model compression and fpga-implementation optimization](https://dl.acm.org/doi/abs/10.1145/3453688.3461739). *Proceedings of the 2021 on Great Lakes Symposium on VLSI.*
 
-- C2. **\[21'ISQED\]** Geng Yuan, Zhiheng Liao, Xiaolong Ma, ..., **Hongwu Peng**, ..., Yanzhi Wang. [Improving DNN fault tolerance using weight pruning and differential crossbar mapping for ReRAM-based edge AI](https://arxiv.org/pdf/2106.09166). *2021 22nd International Symposium on Quality Electronic Design.*
+- C2. **\[21'ISQED\]** Geng Yuan, Zhiheng Liao, Xiaolong Ma, ..., **Hongwu Peng**, ..., Yanzhi Wang. [Improving DNN fault tolerance using weight pruning and differential crossbar mapping for ReRAM-based edge AI](https://arxiv.org/abs/2106.09166). *2021 22nd International Symposium on Quality Electronic Design.*
 
 - C1. **\[21'ISQED\]** **Hongwu Peng**, Shaoyi Huang, Tong Geng, Ang Li, Weiwen Jiang, Hang Liu, Shusen Wang, Caiwen Ding. [Accelerating transformer-based deep learning models on fpgas using column balanced block pruning](https://wangshusen.github.io/papers/ISQED2021.pdf). *2021 22nd International Symposium on Quality Electronic Design.*
 
