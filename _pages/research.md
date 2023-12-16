@@ -30,7 +30,7 @@ My current research focuses on novel algorithms and hardware co-design for accel
 
 ### **Featured publications**
 - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](http://arxiv.org/abs/2309.14331) (**NeurIPS**), 2023. \[[Code](https://github.com/harveyp123/LinGCN-Neurips23)\].
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)(**MICRO**), 2023. 
+- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297)(**MICRO**), 2023. 
 - [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#) (**ICCV**), 2023. \[[Code](https://github.com/harveyp123/AutoReP)\].
 - [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513) (**DAC**), 2023. \[[Code](https://github.com/HarveyP123/PASNet-DAC2023)\].
 
