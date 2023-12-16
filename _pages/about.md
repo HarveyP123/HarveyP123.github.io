@@ -19,7 +19,7 @@ I am generally interested in Large Language Model, efficient ML, secure and Trus
 Recent News
 ======
 
-*11/2023 Our paper [MaxK-GNN](#) on accelerating GNN training through MaxK nonlinearity & GPU kernel co-design has been accepted by **ASPLOS 24**. To appear.* 
+*11/2023 Our paper [MaxK-GNN](https://arxiv.org/abs/2312.08656) on accelerating GNN training through MaxK nonlinearity & GPU kernel co-design has been accepted by **ASPLOS 24**. \[[Code](https://github.com/harveyp123/MaxK-GNN)\].
 
 *10/2023 I accepted the **Synchrony Fellowships** from UConn CSE. Thanks UConn CSE!\[[News](https://cacc.engr.uconn.edu/about/centers/synchrony/synchrony-fellowship-awards)\]*
 

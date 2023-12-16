@@ -5,6 +5,10 @@ permalink: /codes/
 author_profile: true
 ---
 
+- **[MaxKGNN](https://github.com/harveyp123/MaxK-GNN).** Implementation of "MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training."\
+*Key technique*: Graph neural network, GPU kernel design, MaxK nonlinearity.
+
+
 - **[LinGCN](https://github.com/harveyp123/LinGCN-Neurips23).** Implementation of "LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference."\
 *Key technique*: Privacy-Preserving Machine Learning, efficient private inference, machine learning as a service, homomorphic encryption, non-linear pruning, ST-GCN.
 

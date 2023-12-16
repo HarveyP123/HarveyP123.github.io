@@ -7,7 +7,7 @@ author_profile: true
 
 ### **CS Conference**
 
-- C19. **\[24'ASPLOS\]** **Hongwu Peng**, Xi Xie, Kaustubh Shivdikar, ... David Kaeli, Caiwen Ding. [MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training](#). *ACM International Conference on Architectural Support for Programming Languages and Operating Systems.* 
+- C19. **\[24'ASPLOS\]** **Hongwu Peng**, Xi Xie, Kaustubh Shivdikar, ... David Kaeli, Caiwen Ding. [MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training](https://arxiv.org/abs/2312.08656). *ACM International Conference on Architectural Support for Programming Languages and Operating Systems.* \[[Code](https://github.com/harveyp123/MaxK-GNN)\].
 
 - C18. **\[23'NEURIPS\]** **Hongwu Peng**, Ran Ran, Yukui Luo, ... Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](http://arxiv.org/abs/2309.14331). *2023 Advances in Neural Information Processing Systems.* \[[Code](https://github.com/harveyp123/LinGCN-Neurips23)\].
 
