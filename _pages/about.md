@@ -19,7 +19,10 @@ I am generally interested in Large Language Model, efficient ML, secure and Trus
 Recent News
 ======
 
-*11/2023 Our paper [MaxK-GNN](https://arxiv.org/abs/2312.08656) on accelerating GNN training through MaxK nonlinearity & GPU kernel co-design has been accepted by **ASPLOS 24**. \[[Code](https://github.com/harveyp123/MaxK-GNN)\].
+
+*12/2023 I'm starting a new internship at **Microsoft Azure AI** team, under the supervision of Dr. Shuohang Wang, Dr. Weizhu Chen.
+
+*11/2023 Our paper [MaxK-GNN](https://arxiv.org/abs/2312.08656) on accelerating GNN training through MaxK nonlinearity & GPU kernel co-design has been accepted by **ASPLOS 24**. \[[Code](https://github.com/harveyp123/MaxK-GNN)\].*
 
 *10/2023 My **EB1A** (Extraordinary Ability "Einstein Visa") got approved. Thanks USCIS : )*
 
@@ -30,7 +33,7 @@ Recent News
 *09/2023 We release [Medusa](https://sites.google.com/view/medusa-llm), a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head. No draft model needed!* \[[Blog](https://sites.google.com/view/medusa-llm)\], \[[code](https://github.com/FasterDecoding/Medusa)\].
 
 *07/2023 Our paper [AQ2PNN](https://dl.acm.org/doi/10.1145/3613424.3614297) on adaptive quantization in private inference under multi-party computation setting has been accepted by **MICRO 23**.  
-
+2000
 *07/2023 Our paper [Accel-GCN](https://arxiv.org/abs/2308.11825) on graph learning acceleration on GPUs has been accepted by **ICCAD 23**.* \[[Code](https://github.com/xiexi1990/iccad-accel-gnn)\].
 
 *07/2023 Our paper [AutoReP](https://arxiv.org/abs/2308.10134) on ReLU replacement for fast private inference under multi-party computation setting has been accepted by **ICCV 23**.* \[[Code](https://github.com/harveyp123/AutoReP)\].

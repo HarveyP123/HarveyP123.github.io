@@ -17,6 +17,11 @@ Education
 
 Research experience
 ======
+
+* Dec. 2023 – Present: Ph.D. Research Intern @ Microsoft
+  * Research area: LLM speculative decoding and retrieval agumented generation. 
+  * Supervisor: Dr. [Shuohang Wang](https://sites.google.com/site/shuohangsite), Dr. [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
+
 * Jan. 2021 – Present: Research Assistant @ UConn CSE
   * Research area: Deep learning, machine learning system, privacy perserving machine learning. 
   * Supervisor: Prof. [Caiwen Ding](https://caiwending.cse.uconn.edu/)
