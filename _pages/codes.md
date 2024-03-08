@@ -5,15 +5,20 @@ permalink: /codes/
 author_profile: true
 ---
 
-- **[MaxKGNN](https://github.com/harveyp123/MaxK-GNN).** Implementation of "MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training."\
+- **[Medusa](https://github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
+*Key technique*: , LLM, speculative decoding.
+
+
+- **[MaxK-GNN](https://github.com/harveyp123/MaxK-GNN).** Implementation of "MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training."\
 *Key technique*: Graph neural network, GPU kernel design, MaxK nonlinearity.
 
+- **[LoT](https://github.com/harveyp123/MaxK-GNN).** Implementation of "Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate."\
+*Key technique*: Generalization, regularization.
 
 - **[LinGCN](https://github.com/harveyp123/LinGCN-Neurips23).** Implementation of "LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference."\
 *Key technique*: Privacy-Preserving Machine Learning, efficient private inference, machine learning as a service, homomorphic encryption, non-linear pruning, ST-GCN.
 
-- **[Medusa](https://github.com/FasterDecoding/Medusa).** Medusa: a easy-to-use framework which accelerates LLM generation through multiple light-weighted decoding head.\
-*Key technique*: , LLM, speculative decoding.
+
 
 - **[AutoReP](https://github.com/harveyp123/AutoReP).** Implementation of AutoReP ReLU replacement algorithm on CIFAR-10, CIFAR-100, TinyImageNet and ImageNet.\
 *Key technique*: L0 replacement algorithm, polynomial activation function, private inference.
