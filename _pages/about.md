@@ -19,8 +19,9 @@ I am generally interested in Large Language Model, efficient ML, secure and Trus
 Recent News
 ======
 
+*05/2024 I'm starting a new internship at **Adobe Research** team, under the supervision of [Yan Kang](https://research.adobe.com/person/yan-kang/), Marian Petre, Dr. [Yuchen Liu](https://research.adobe.com/person/yuchen-liu/), [Tobias Hinz](https://www.tobiashinz.com/), [Zhe Lin](https://research.adobe.com/person/zhe-lin/). Research Topic: GenAI (text2image, text2video) efficiency*
 
-*12/2023 I'm starting a new internship at **Microsoft GenAI** team, under the supervision of [Abhishek Goswami](https://scholar.google.com/citations?hl=en&user=aJnMpi4AAAAJ&view_op=list_works&sortby=pubdate), Dr. [Shuohang Wang](https://sites.google.com/site/shuohangsite), Dr. [Yelong Shen](https://scholar.google.com/citations?hl=en&user=S6OFEFEAAAAJ&view_op=list_works), Dr. [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)*
+*12/2023 I'm starting a new internship at **Microsoft GenAI** team, under the supervision of [Abhishek Goswami](https://scholar.google.com/citations?hl=en&user=aJnMpi4AAAAJ&view_op=list_works&sortby=pubdate), Dr. [Shuohang Wang](https://sites.google.com/site/shuohangsite), Dr. [Yelong Shen](https://scholar.google.com/citations?hl=en&user=S6OFEFEAAAAJ&view_op=list_works), Dr. [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/). Research Topic: Representation Learning for Large Language Model*
 
 *11/2023 Our paper [MaxK-GNN](https://arxiv.org/abs/2312.08656) on accelerating GNN training through MaxK nonlinearity & GPU kernel co-design has been accepted by **ASPLOS 24**. \[[Code](https://github.com/harveyp123/MaxK-GNN)\].*
 
