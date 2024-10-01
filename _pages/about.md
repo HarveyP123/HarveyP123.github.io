@@ -19,6 +19,9 @@ I am generally interested in Large Language Model, efficient ML, secure and Trus
 Recent News
 ======
 
+*09/2024 Our paper [LoT](https://arxiv.org/abs/2402.02769) regularization for improving the generalization of model training has been accepted by  **NeurIPS 24**. LoT is proved to be highly effective accross tasks such as LLM finetune, Game RL, Small LM pretraining, and Image Classification* \[[Code](https://github.com/jincan333/LoT)\].
+
+
 *05/2024 I'm starting a new internship at **Adobe Research** team, under the supervision of [Yan Kang](https://research.adobe.com/person/yan-kang/), Marian Petre, Dr. [Yuchen Liu](https://research.adobe.com/person/yuchen-liu/), [Tobias Hinz](https://www.tobiashinz.com/), [Zhe Lin](https://research.adobe.com/person/zhe-lin/). Research Topic: GenAI (text2image, text2video) efficiency*
 
 *12/2023 I'm starting a new internship at **Microsoft GenAI** team, under the supervision of [Abhishek Goswami](https://scholar.google.com/citations?hl=en&user=aJnMpi4AAAAJ&view_op=list_works&sortby=pubdate), Dr. [Shuohang Wang](https://sites.google.com/site/shuohangsite), Dr. [Yelong Shen](https://scholar.google.com/citations?hl=en&user=S6OFEFEAAAAJ&view_op=list_works), Dr. [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/). Research Topic: Representation Learning for Large Language Model*
