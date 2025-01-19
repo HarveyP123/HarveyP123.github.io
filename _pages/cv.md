@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, University of Connecticut, 2024 (expected). GPA: 3.94. 
+* Ph.D in Computer Science and Engineering, University of Connecticut, 2024. GPA: 3.94. 
 * M.S. in Electrical Engineering, University of Akransas, 2020. (Ph.D. dropout). GPA: 3.9. 
 * B.S. in Electrical Engineering, Huazhong University of Science and Technology, 2018. GPA: 3.92.
 
@@ -18,11 +18,14 @@ Education
 Research experience
 ======
 
-* Dec. 2023 – Present: Ph.D. Research Intern @ Microsoft GenAI
+* May. 2024 – Current: Research Scientist/Engineer @ Adobe Research
+  * Research area: GenAI efficiency
+
+* Dec. 2023 – May. 2024: Ph.D. Research Intern @ Microsoft GenAI
   * Research area: LLM related. 
   * Supervisor: [Abhishek Goswami](https://scholar.google.com/citations?hl=en&user=aJnMpi4AAAAJ&view_op=list_works&sortby=pubdate), Dr. [Shuohang Wang](https://sites.google.com/site/shuohangsite), Dr. [Yelong Shen](https://scholar.google.com/citations?hl=en&user=S6OFEFEAAAAJ&view_op=list_works), Dr. [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
 
-* Jan. 2021 – Present: Research Assistant @ UConn CSE
+* Jan. 2021 – Dec. 2024: Research Assistant @ UConn CSE
   * Research area: Deep learning, machine learning system, privacy perserving machine learning. 
   * Supervisor: Prof. [Caiwen Ding](https://caiwending.cse.uconn.edu/)
 
