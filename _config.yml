@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongwu Peng"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @ University of Connecticut"
+  bio              : "Research Scientist/Engineer @ Adobe Research"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9P2qtQoAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "hongwu.peng@uconn.edu"
+  email            : "hongwup@adobe.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
