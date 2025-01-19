@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Ph.D. student in the Department of [Computer Science and Engineering](https://www.cse.uconn.edu/) at [University of Connecticut](https://uconn.edu/) since 2021 spring. I obtained my B.S. degree in electrical engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2018 and and M.S. degree in electrical engineering from [University of Akransas](https://www.uark.edu/) in 2020.
+I am an Research Scientist/Engineer in the Adobe Research. I earned my Ph.D. degree from the Department of [Computer Science and Engineering](https://www.cse.uconn.edu/) at [University of Connecticut](https://uconn.edu/) at 2024. I obtained my B.S. degree in electrical engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2018 and and M.S. degree in electrical engineering from [University of Akransas](https://www.uark.edu/) in 2020.
 
 I am generally interested in Large Language Model, efficient ML, secure and Trustworthy AI/ML, and ML system. My current research focuses are listed as follows:
 
